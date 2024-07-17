@@ -67,10 +67,6 @@ NOT_FOUND() {
   echo I could not find that element in the database.
 }
 
-FOUND() {
-  echo TODO: This one DOES exist in the DB
-}
-
 # main program
 INPUT=$1
 MAIN
